@@ -1,0 +1,38 @@
+{
+    "title": "🎨⠀Arcade Lunar Color Palette",
+    "image": {
+      "url": "https://media.discordapp.net/attachments/1326692858761187379/1326718250628808754/footer.webp?ex=67807228&is=677f20a8&hm=816e895e14ce46819698877748dc3aa5fb10ac27c1d3a0ed133a579d28854b6b&=&format=webp"
+    },
+    "description": "Adicione um toque personalizado ao perfil do seu servidor.\n\n",
+    "fields": [
+      {
+        "name": "Cores para Tier 1",
+        "value": "> <:tiffanylaranja:1326710232604479559><@&1326696019609649222> \n> <:tiffanyamarelo:1326710234042863627><@&1326696188161818695> \n> <:tiffanyazul:1326710235313995809><@&1326696212589576254> \n> <:tiffanyverde:1326710237029204092><@&1326696221246754866>",
+        "inline": true
+      },
+      {
+        "name": "Cores Disponíveis",
+        "value": "> <:nevadovermelho:1326710223494316032><@&1326694034626056313> \n> <:nevadolaranja:1326710225771954247><@&1326695496894386216> \n> <:nevadoamarelo:1326710228191805631><@&1326695608593158144> \n> <:nevadolima:1326710229475524629><@&1326695808221057077> \n> <:nevadociano:1326710230834217002><@&1326695871114379316>",
+        "inline": true
+      },
+      {
+        "name": "Cores para Tier 2",
+        "value": "> <:vintagevermelho:1326710242783920138><@&1326696224153276476>\n> <:vintageamarelo:1326710238782558259><@&1326696222710304788> \n> <:vintagebege:1326710382839992394><@&1326696223306154025>  \n> <:vintageazul:1326710245409554432><@&1326697170627330110> \n> <:vintageverde:1326710248878112788><@&1326697323132223538>",
+        "inline": false
+      },
+      {
+        "name": "Cores para Tier 3",
+        "value": "> <:azuldiscord:1326710513366859891><@&1326697463498805249> \n> <:booster:1326710253068357634><@&1326699235575336980>\n> <:bravery:1326710256948215870><@&1326697665488228472> \n> <:ballance:1326710259703746571><@&1326697780269547683> \n> <:brilliance:1326710263373893663><@&1326698129306681395>",
+        "inline": true
+      },
+      {
+        "name": "Cores para __**Boosters**__, __**Doadores**__ e  __**Staffs**__",
+        "value": "> <:azul:1326731160444993642><@&1326698314384806000> \n> <:roxo:1326710266875875471><@&1326698432127041548> \n> <:turquesa:1326730887290949672><@&1326698524250869833> \n> <:lunarverde:1326704578548203561><@&1326698672079245342> \n> <:rosa:1326710532224454656><@&1326698743906701363> \n> <:preto:1326710270944608337><@&1326704945046753401>\n> <:branco:1326724919714648144><@&1326724666030686249>",
+        "inline": true
+      }
+    ],
+    "footer": {
+      "text": "Suba de nível para desbloquear novas cores na comunidade."
+    }
+  }
+  
